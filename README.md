@@ -54,13 +54,11 @@ with conditional covariance K(x, x′) − k(x)ᵀ K⁻¹ k(x′). This project 
 
 ## Getting Started
 
-**Requirements:** Python 3.x, NumPy, SciPy, Matplotlib, Plotly [edit to match your imports]
+**Requirements:** Python, NumPy, SciPy, Matplotlib, Plotly, Jupyter notebook
 
 ```bash
-git clone https://github.com/[username]/[repo].git
-cd [repo]
-pip install numpy scipy matplotlib plotly
-jupyter notebook [notebook_name].ipynb
+
+jupyter notebook 
 ```
 
 ## Report
