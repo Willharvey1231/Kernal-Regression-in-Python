@@ -69,4 +69,4 @@ The full write-up is in [`report.pdf`](./report.pdf).
 
 ## Acknowledgements
 
-Coursework for [module name / university], [year]
+Coursework for [Multivariate Data Analysis / Cardiff University], [2026]
