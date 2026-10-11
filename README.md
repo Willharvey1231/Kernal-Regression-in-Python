@@ -42,25 +42,6 @@ with conditional covariance K(x, x′) − k(x)ᵀ K⁻¹ k(x′). This project 
 - Observation noise acts as a regulariser: larger σ² gives smoother predictions and wider bands.
 - Polynomial kernels are cheap and capture global shape but cannot adapt locally like stationary kernels.
 
-## Repository Structure
 
-```
-[your-repo]/
-├── [notebook_or_script].ipynb   # main code
-├── DataVolcano50.txt            # volcano dataset
-├── report.pdf                   # full written report
-└── README.md
-```
-
-## Getting Started
 
 **Requirements:** Python, NumPy, SciPy, Matplotlib, Plotly, Jupyter notebook
-
-```bash
-
-jupyter notebook 
-```
-
-## Acknowledgements
-
-Coursework for [Multivariate Data Analysis / Cardiff University], [2026]
