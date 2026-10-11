@@ -61,10 +61,6 @@ with conditional covariance K(x, x′) − k(x)ᵀ K⁻¹ k(x′). This project 
 jupyter notebook 
 ```
 
-## Report
-
-The full write-up is in [`report.pdf`](./report.pdf).
-
 ## Acknowledgements
 
 Coursework for [Multivariate Data Analysis / Cardiff University], [2026]
